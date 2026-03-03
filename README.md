@@ -4,11 +4,11 @@ A professional, high-performance landing page developed for **Euroflux**, a lead
 
 This project was developed as part of an assignment for the **Gushworks Interview Shortlist**.
 
-## 🚀 Live Demo
+## Live Demo
 The site is deployed via GitHub Pages:
-**[View Live Site](https://fazalurrahman.github.io/cta/)** *(Note: Replace with your actual GitHub Pages URL)*
+**[View Live Site](https://fazalur076.github.io/gushworks/)**
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Modern & Responsive Design
 - **Pixel-Perfect UI**: Built with a focus on premium aesthetics, clean typography (Inter & Manrope), and a professional color palette.
@@ -32,23 +32,21 @@ The site is deployed via GitHub Pages:
 - **Performance**: Lightweight implementation using Vanilla CSS and JavaScript for lightning-fast load times.
 - **CI/CD**: Integrated GitHub Actions workflow for automated deployments to GitHub Pages.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5**: Semantic markup for better accessibility and SEO.
 - **CSS3**: Modern layout techniques (Grid and Flexbox) with custom animations and glassmorphism effects.
 - **Vanilla JavaScript**: Custom logic for carousels, zoom effects, and interactive tabs without heavy external dependencies.
 - **GitHub Actions**: Automated deployment pipeline.
 
-## 📂 Project Structure
+## Project Structure
 - `index.html`: Main entry point.
 - `styles.css`: Core styling and responsive media queries.
 - `script.js`: Interactive elements and carousel logic.
 - `.github/workflows/deploy.yml`: CI/CD deployment configuration.
 - `assets/`: Optimized images, logos, and certification badges.
 
-## 📥 Getting Started
+## Getting Started
 To run this project locally:
-1. Clone the repository: `git clone https://github.com/fazalurrahman/cta.git`
+1. Clone the repository: `git clone https://github.com/fazalur076/gushworks.git`
 2. Open `index.html` in your favorite browser.
 
----
-Developed by **Fazal ur Rahman** for Gushworks.
