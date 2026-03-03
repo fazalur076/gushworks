@@ -14,14 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (currentScrollY > heroHeight) {
             nav.classList.add('sticky-active');
-
-            if (currentScrollY > lastScrollY) {
-                // Scrolling Down - Show Header
-                nav.classList.add('visible');
-            } else {
-                // Scrolling Up - Hide Header
-                nav.classList.remove('visible');
-            }
+            nav.classList.add('visible');
         } else {
             // Not beyond first fold
             nav.classList.remove('sticky-active');
